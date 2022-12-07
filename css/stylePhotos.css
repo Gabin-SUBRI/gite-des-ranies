@@ -1,0 +1,15 @@
+.container {
+  height: auto;
+  width: auto;
+  background-color: red;
+
+  display: flex;
+  flex-direction: row;
+}
+.col {
+  background-color: blue;
+}
+
+.image {
+  width: 50%;
+}
